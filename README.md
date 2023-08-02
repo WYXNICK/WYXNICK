@@ -14,7 +14,7 @@
 
 📧wyx20032003@163.com
 
-📔[blog](https://blog.csdn.net/m0_61443432)
+📔[my CSDN blog](https://blog.csdn.net/m0_61443432)
 
 
 ### Languages and Tools 🛠 
