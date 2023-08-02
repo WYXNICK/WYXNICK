@@ -7,7 +7,7 @@
 - 👨‍💻 My current research direction is software and data engineering.
 - 📚 I’m currently learning everything about Frontend and Backend technologies 😅
 - 💪🏼 Future Goals: Never stop learning. Never stop creating new ideas.
-- ⚡ Fun fact: I love watching movies.
+- ⚡ Fun fact: I love watching suspense movies and football matches.
 
 
 ### Contact with me 📝
