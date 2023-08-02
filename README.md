@@ -9,7 +9,6 @@
 - 💪🏼 Future Goals: Never stop learning. Never stop creating new ideas.
 - ⚡ Fun fact: I love watching movies.
 
----
 
 ### Contact with me 📝
 
@@ -17,7 +16,6 @@
 
 📔[blog](https://blog.csdn.net/m0_61443432)
 
----
 
 ### Languages and Tools 🛠 
 
@@ -46,7 +44,6 @@
 </div>
 
 
----
 
 ### Github Statistics 📈
 <table><tr><td valign="top" width="50%">
@@ -60,12 +57,10 @@
 
 <br/>
 
----
 
 
 My![Visitor Count](https://profile-counter.glitch.me/WYXNICK/count.svg)visitor
 
 
----
 ⭐️ From [WYXNICK](https://github.com/WYXNICK)
 
