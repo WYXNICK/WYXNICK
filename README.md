@@ -1,7 +1,5 @@
 # Hi there, I'm WYX - aka WYXNICK <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
 
-<img align="right" alt="spiderman" height="160px" src="https://camo.githubusercontent.com/1c9fef4c865a530c077df6ba2fd05a62483f10867f087fbee5f4d8dadd62752a/68747470733a2f2f6f63746f6465782e6769746875622e636f6d2f696d616765732f737069646572746f6361742e706e67" />
-
 ## I'm an undergraduate majoring in software engineering of Tongji University  
 
 - 👨‍💻 My current research direction is software and data engineering.
